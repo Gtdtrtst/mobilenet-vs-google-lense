@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    font-style: italic;
+    font-weight:bold;
+}
+p{
+    color: red;
+    font-size: 25;
+}
+#btn-info{
+    float: left;
+}
+#btn-primary{
+    float: right;
+}
+#test_image_1{
+    background-color: aqua;
+}
+#test_image_2{
+    background-color:aquamarine;
+}
+#test_image_3{
+    background-color:rgb(164, 228, 228);
+}
+.copy_right_footer
+{
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   position: fixed;
+   color: white;
+   background-color: darkslateblue;
+   line-height: 3;
+}
